@@ -12,7 +12,7 @@ To get started running the project locally, please follow the steps below.
 First, clone the repository.
 
 ```bash
-git clone https://github.com/C22-017/Maneyfy-BackEnd.git
+git clone https://github.com/nee18/F10FEBE_5_NelyDwiAgustin.git
 ```
 
 Then, install dependencies and fetch data to your local machine. **Note that we use NPM, not YARN.**
@@ -25,5 +25,10 @@ npm install
 Finally, run the development.
 
 ```bash
-npm run local
+npm run start-dev
+```
+run the production.
+
+```bash
+npm run start-prod
 ```
